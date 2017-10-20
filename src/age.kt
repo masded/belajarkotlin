@@ -15,5 +15,4 @@ fun main(args: Array<String>) {
 
     //OUTPUT
     println("umurmu adalah $age tahun")
-
 }
